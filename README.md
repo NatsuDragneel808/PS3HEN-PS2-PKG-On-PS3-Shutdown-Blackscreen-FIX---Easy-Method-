@@ -49,6 +49,8 @@ With downloads out of the way, I'm just trying my best to cover the basics, you 
 Note: Do not press the home button in the game unless you're done playing. Doing so will result in the same crash on the initial without spoof. Spoofing the OFW is the only way to workaround without all the initial extra BS. No multiMan, nowebMAN, no extra conversions to run. You can run the game straight from the menu but remember that to use anything else, the psn patch is only for when you're playing PS3 games online, and booting a ps2 pkg. Other applications will not work at this time. You will need to run a PSN patch every time you boot a PS2 game just like when you're ready to play a PS3 game online. As far as I'm aware, something dealing with the ofw is the cause of the crash/black screens. Idk why this workaround works, it just does. You're welcome.
 
 
+I have a model that doesn't support backward compatibility. So this probably works on all models. I can play ps1, ps2 and ps3 games as pkg.
+
 (My_Specs)
 Model: CECHK01
 FW: HFW 4.91.1
