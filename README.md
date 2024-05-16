@@ -32,6 +32,10 @@ With downloads out of the way, I'm just trying my best to cover the basics, you 
 - Download your game
 - Exit PS2CM when dl completed
 
+(PS2 MS Setup)
+- Game --> Memory card utility --> Create new internal memory card --> Internal Memory Card (PS2) 
+- Exit
+
 (PSN_Patch) "You do not need to install rap+edit, unlock classics, or patch the games for this method"
 - Game --> the PSN patch and hit x in the menu. Your console will refresh.
 - After refresh, go login to your psn alt account. If you haven't made a new email & psn alt account, do that now.
